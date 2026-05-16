@@ -1,0 +1,7 @@
+streamkil
+pandas
+altair
+matplotlib
+seaborn
+requests
+scikit-learn
