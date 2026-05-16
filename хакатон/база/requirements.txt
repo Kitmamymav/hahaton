@@ -1,4 +1,4 @@
-streamkil
+streamlit
 pandas
 altair
 matplotlib
